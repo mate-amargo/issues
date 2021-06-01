@@ -1,0 +1,111 @@
+[1A[80C
+[8m                                                                             [0;10m
+[1A[80C
+[8m                                   [0;10m[1m._._..[0;10m[8m                                    [0;10m
+[1A[80C
+[8m                              -[0;10m[1m.[0;10m+^[8m        [0;10m"'[1m.[0;10m,[8m                               [0;10m
+[1A[80C
+[8m                             [0;10m_^[8m              [0;10m-[8mQ[0;10m,[8m                             [0;10m
+[1A[80C
+[8m                            Q[0;10m,[8m                 [0;10m-[8mQ.                           [0;10m
+[1A[80C
+[8m                            [0;10m,[8m                   [0;10m^,[8m                           [0;10m
+[1A[80C 
+[8m                            [0;10m'[8m                    [0;10m'[8m-                          [0;10m
+[1A[80C
+[8m                          .[0;10m|[8m                     Q[0;10m=[8m                          [0;10m
+[1A[80C
+[8m                           [0;10mv[8m           [0;10m_w[1m_.[0;10m[8m      Q[0;10m'[8m                          [0;10m
+[1A[80C
+[8m                           [0;10mv[8m [0;10m_[1mammc[0;10m[8m    [0;10mq[1mQQQQg,[0;10m[8m     [0;10m`[8m                          [0;10m
+[1A[80C
+[8m                          .[0;10mv[8m [0;10m[1m]B?$W[0;10mc[8m  [0;10m][1mmWTTVQL[0;10m,[8m    =                          [0;10m
+[1A[80C                          
+[8m                           [0;10m[1m:[0;10m[8m [0;10m[1m3[0;10m(]m[1mU([0;10m[8m  [0;10mj[1mQ([0;10m[8m [0;10m[1m"n3Q[0;10m([8m    Qi                         [0;10m
+[1A[80C
+[8m                           [0;10mi[8m [0;10m[1m][0;10mp[8mS[0;10m![1mX6[0;10mgg[1m]Q[0;10mp[8m  [0;10m![1m]Q[0;10m[[8m    [0;10m)`[8m                         [0;10m
+[1A[80C
+[8m                           [0;10m|[8m [0;10m)[1mU[0;10mQ[1muidXXadh[0;10mp,-[1m?T[0;10m'[8m    [0;10m)`[8m                         [0;10m
+[1A[80C
+[8m                           [0;10m;[8m [0;10m_[1mvXXZXXXXXXXXoa,[0;10m[8m     [0;10m-[8m                          [0;10m
+[1A[80C
+[8m                             [0;10m[1m]XXZXZZZZZXZZ2YX[0;10m([8m     [0;10m[1m.[0;10m[8m=                        [0;10m
+[1A[80C
+[8m                           -  [0;10mM[1mXXZZXZXZ2!{[0;10mg[1mwe[0;10m`[8m .   [0;10m"[8m                         [0;10m
+[1A[80C
+[8m                           i[0;10m=[8m  [0;10m)[1m"?!!"[0;10m$g[1maXY!Xc[0;10m[8m       [0;10m^[8m                        [0;10m
+[1A[80C
+[8m                           n[0;10m`[1m_,[0;10m-[1m<ouudXY"[0;10m\g[1myQm[0;10m,[8m  .-  [0;10m-'[8m                       [0;10m
+[1A[80C                          
+[8m                          [0;10m_^[8m [0;10m[1mjQ[0;10mp[8m [0;10m![1m""~[0;10m[8m [0;10m[1m_wQQQQQp[0;10m,[8m      [0;10m-[1m.[0;10m[8m=                     [0;10m
+[1A[80C
+[8m                         [0;10m_=[8m [0;10mj[1mQQQc[0;10m[8m   [0;10m[1m_wQQWQQQQWk[0;10m,[8m       [0;10m[1m.[0;10m[8m                     [0;10m
+[1A[80C
+[8m                        Q[0;10m'[8m [0;10m][1mmQQWQmygQQQQQQQQQQWc[0;10m[8m       [0;10m-,[8m                    [0;10m
+[1A[80C
+[8m                       [0;10m_^[8m  [0;10m[1mqQQQQQQQQQQQQQQQQQQQm[0;10mc[8m       [0;10m-[1m.[0;10m[8m=                  [0;10m
+[1A[80C
+[8m                      [0;10m-`[8m  Q[0;10m[1mWWQQQQQQQQQQQQQQQQQQQc[0;10m[8m         [0;10m,[8m                  [0;10m
+[1A[80C
+[8m                     [0;10m[1m.[0;10m'[8m   [0;10m)[1mWWQQQQQQQQQQQQQQQQQQQm[0;10m,[8m        [0;10m-'[8m                 [0;10m
+[1A[80C
+[8m                    [0;10m_[8m  -  [0;10mj[1mQWQQQQQQQQQQQWQQQQQQQQk[0;10m[8m    -    [0;10m-[1m.[0;10m[8m+               [0;10m
+[1A[80C
+[8m                   [0;10m_,[8m    [0;10mj[1mmQQQQQQQQQQQQQQQQQQQQQQQc[0;10m[8m    .-    [0;10m,[8m               [0;10m
+[1A[80C
+[8m                   [0;10m,[8m    [0;10m<[1mmQQQQQQQQQQQQQWQQQQQQQQQWQ[0;10mp[8m         Q[0;10m,[8m              [0;10m
+[1A[80C
+[8m                  [0;10m-'[8m    [0;10m[1mwWQQQQQQQQQQQQQQQQQQQQQWQQQp[0;10m,[8m  .-=    Q              [0;10m
+[1A[80C
+[8m                 .[0;10m^[8m    [0;10mj[1mQWQQQQQQQQQQQQWQQQQQQQQQQQQW[0;10mp[8m         [0;10m-[8m              [0;10m
+[1A[80C
+[8m                 [0;10m<[8m     [0;10m[1mdQQQQQQQQQQQQQQQQQQQQQQQQQQQWc[0;10m[8m          [0;10m<[8m+            [0;10m
+[1A[80C                                    
+[8m                Q[0;10m,[8m-   [0;10mj[1mmQQQQQQQQQQQQQQQQQQQQQQWQQQQQC[0;10m[8m    .     [0;10m^[8m.            [0;10m
+[1A[80C
+[8m               [0;10m-=[8m .   [0;10mj[1mQQQQQQQQQQQQQQWQQQQQQQQQQQQQQf[0;10m[8m           [0;10m,[8m            [0;10m
+[1A[80C
+[8m              .[0;10m>[8m      [0;10m[1m]QQQQQQQQQQQQQQQQQQQQQQQQQQQQQf[0;10m[8m   i-      [0;10m([8m            [0;10m
+[1A[80C
+[8m             [0m .   =[0;10mj [1m,[0;10m[8m[0;10m[1m]WQQQQQQQQQQQQQQQQQQQQQWQQQQQQQk.,[8m        [0;10m=[8m            [0;10m
+[1A[80C  
+[8m             [0m -    [0;10m)[1mSajWQQQQQQQQQQQQQQQQQQQQQQQQQQQQWP[0;10m[8m[0;10m"^^"([8m     [0;10m=[8m            [0;10m
+[1A[80C
+[8m              -[0;10mq[1maa[0;10mg,-[1m4WWQQQQQQQQQQQQQQQQQQWQQQQQQQWB[[0;10m[8m           [0;10m^[8m            [0;10m
+[1A[80C
+[8m              [0;10mq[1mZXXXq[0;10mp[8m [0;10m7[1m$QQQQQQQQQQQQQWQQQQQQQQQQQE`[0;10mq[1m,[0;10m[8m         [0;10m_g[1m,[0;10m[8m            [0;10m
+[1A[80C
+[8m             [0;10m=w[1mdXZXZX[0;10mp[8m  [0;10m[1m?WWQQQQQQQQQQQQQQQQQQQQQW()Zh,[0;10m[8m       [0;10mj[1mwZh[0;10m,[8m           [0;10m
+[1A[80C 
+[8m            [0;10m_=[1m)ZZXZZZZc[0;10m,[8m [0;10m"[1m?QQQQQQQQQQQQQQQQQQQQQW(]ZZo[0;10mp[8m    [0;10m[1m_uZXX[0;10m@'[8m           [0;10m
+[1A[80C
+[8m       [0;10m%nZ[1m=[0;10mn[1m_[0;10mg[1mdZZZZXZXZs[0;10m[8m   [0;10m)[1m4WQQQQQQWQQQQQWQQQQWW(]#XZZoaadZZZZZ[0;10mf[8mQ           [0;10m
+[1A[80C
+[8m     .[0;10m,[1m)ZZZZZ#ZZZXZZXZZXa[0;10m[8m    [0;10m7[1mVQQQQQQQQQQQQQQQQQW[0;10mE[1m]ZXZZZZZXZZZXZc[0;10m-[1m.[0;10m[8m+         [0;10m
+[1A[80C[0m
+[8m     .[0;10m`)[1m3ZZXZXZZXZZXZZXZZs[0;10m,[8m   [0;10m)[1m$WQQQQQQQQQQQQQQQW[0;10mf[1m)XZZXZZXZZZXZZX[0;10mp[8mv[0;10m<,[8m-       [0;10m
+[1A[80C[0m
+[8m      Q[0;10m,[1m)XZZZZXZZZXZZXZZXZs[0;10m,[8m  [0;10m<[1mmWQQQQQQQQQQQQQWY$[0;10mL][1mXXZZZXZZXZZZXZZoa[0;10mgc,[8m      [0;10m
+[1A[80C[0m
+[8m      Q[0;10m[=[1mXXZXZZXZXZZXZZXZZZa[0;10m_[1mamQQQQQQQQQQWQQQD^[0;10m[8m [0;10m[1mn[0;10mf][1m3ZZXZZZXZZXZZXZZXXX;[0;10m([8m     [0;10m
+[1A[80C[0m
+[8m      [0;10m-(][1mXZZZXZZZZXZZZXZZXZXc)WT$WQQQQWQQQQ@?[0;10m'[8m  [0;10m[1mm[0;10m(][1mdXZZXZXZZXZZXZZXZX![0;10m='[8m     [0;10m
+[1A[80C[0m
+[8m     .[0;10m,[1m.3XZXZZXZXZZXZXZZXZZZX[0;10mr[1m)m,"TTTTTT?!~[0;10m[8m    [0;10mj[1mm[0;10m[8m [0;10mj[1mXZZXZZZXZZZXZZX!"[0;10m[^[8m+      [0;10m
+[1A[80C[0m
+[8m     :[0;10mv[1m)ZZXZZXZZZXZZZZZXZZXZZ([0;10m[8m [0;10m[1m3c[0;10m[8mi             [0;10m[1mjE[0;10m[8m [0;10m[1m)ZZXZZXZZZXX!"[0;10m^[1m.[0;10m-'[8m         [0;10m
+[1A[80C[0m
+[8m     .Q[0;10m[1m.[0;10m/[1m~"?YXXZXZZXZXZZZXZZZ[0;10mF[8m [0;10m[1m)([0;10m[8m:             [0;10m[1m]([0;10m[8m [0;10m[1m)ZXZZXZZXX"[0;10m'[1m.[0;10m+'[8m            [0;10m
+[1A[80C[0m
+[8m        -[0;10m""`_[1m.[0;10m>[1m~"?YSXZXZXZZZe[0;10m'[8m. Q[0;10m[1m_........._..._[0;10m[8m  [0;10m-[1m3XZXZZX"[0;10m'[1m.[0;10m^[8mv              [0;10m
+[1A[80C[0m
+[8m              -[0;10m-"`[1m.[0;10m,-[1m~"!???"[0;10m^_/^[8m+               [0;10m",[8m  [0;10m[1m"!!!^[0;10m`_/`[8m                [0;10m
+[1A[80C[0m
+[8m                   .[0;10m"'[1m.[0;10m,[8m   [0;10m_/'[8m                  -[0;10m-[1m.[0;10m,[8m    [0;10m_,'[8m                  [0;10m
+[1A[80C[0m
+[8m                       -[0;10m-""[8m                        -[0;10m-""`[8m=                    [0;10m
+[1A[80C[0m
+[8m                                                                             [0;10m
+[1A[80C[0m
+[8m                                                                             [0;10m
+[1A[80C[0m
